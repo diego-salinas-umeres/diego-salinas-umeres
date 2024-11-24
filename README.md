@@ -4,12 +4,12 @@
 
 <h2>🛠️ Technologies I’ve Worked With:</h2>
 
-<table style='width: 100%; border-collapse: collapse; text-align: center;'>
+<table style='width: 100%; border-collapse: collapse; text-align: center;' align = center >
     <tr >
-        <td style='height: 30px; border:dotted;'>FrontEnd</td>
+        <td style='height: 30px; border:dotted;' align = center>FrontEnd</td>
     </tr> 
     <tr >
-        <td style='height: 30px; border:dotted;'>
+        <td style='height: 30px; border:dotted;'  align = center>
             <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
             <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
             <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -21,30 +21,30 @@
         </td>
     </tr> 
     <tr >
-        <td style='height: 30px; border:dotted;'>Backend</td>
+        <td style='height: 30px; border:dotted;' align = center>Backend</td>
     </tr> 
     <tr >
-        <td style='height: 30px; border:dotted;'>
+        <td style='height: 30px; border:dotted;' align = center>
             <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
             <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white" alt=".NET" />
             <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
         </td>
     </tr> 
     <tr>
-        <td style='height: 30px; border:dotted;'>Databases</td>
+        <td style='height: 30px; border:dotted;' align = center>Databases</td>
     </tr> 
     <tr>
-        <td style='height: 30px; border:dotted;'>
+        <td style='height: 30px; border:dotted;' align = center>
             <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
             <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
             <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
         </td>
     </tr> 
     <tr>
-        <td style='height: 30px; border:dotted;'>Tools</td>
+        <td style='height: 30px; border:dotted;' align = center>Tools</td>
     </tr> 
     <tr>
-        <td style='height: 30px; border:dotted;'>
+        <td style='height: 30px; border:dotted;' align = center>
             <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
             <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
             <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab" />
