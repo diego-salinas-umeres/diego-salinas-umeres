@@ -1,8 +1,8 @@
-<h1>💻 ¡Hi! I'm Diego Salinas, Full Stack Developer 👨‍💻</h1>
+# 💻 ¡Hi! I'm Diego Salinas, Full Stack Developer 👨‍💻
 
 <p>I’m a Full Stack Developer passionate about creating efficient and innovative solutions for diverse industries. My experience spans both frontend and backend development, with a strong focus on building scalable, responsive, and user-friendly applications.</p>
 
-<h2>🛠️ Technologies I’ve Worked With:</h2>
+## 🛠️ Technologies I’ve Worked With:
 
 <table style='width: 100%; border-collapse: collapse; text-align: center;' align = center >
     <tr >
@@ -55,3 +55,10 @@
         </td>
     </tr> 
 </table>
+
+## Contact me: 
+<div align=center>
+<a href='https://wa.me/+51939584742'><img src="https://img.shields.io/badge/WhatsApp-%2384D42D.svg?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="mailto:salinas.umeres.da@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+</a></div>
