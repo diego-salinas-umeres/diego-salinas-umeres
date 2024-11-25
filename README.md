@@ -60,4 +60,6 @@
 <div align=center>
 <a href='https://wa.me/+51939584742'><img src="https://img.shields.io/badge/WhatsApp-%2384D42D.svg?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="mailto:salinas.umeres.da@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/diego-salinas-umeres-88a04418b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
+
