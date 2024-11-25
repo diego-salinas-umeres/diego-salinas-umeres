@@ -5,6 +5,17 @@
 ## 🛠️ Technologies I’ve Worked With:
 
 <table style='width: 100%; border-collapse: collapse; text-align: center;' align = center >
+    <tr>
+         <td style='height: 30px; border:dotted;' align = center>Programming Languages</td>
+    </tr>
+    <tr>
+         <td style='height: 30px; border:dotted;' align = center>
+            <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+            <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+            <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+            <img src="https://img.shields.io/badge/Java-%23F8981D.svg?style=flat&logo=java&logoColor=white" alt="Java" />
+         </td>
+    </tr>
     <tr >
         <td style='height: 30px; border:dotted;' align = center>FrontEnd</td>
     </tr> 
@@ -12,12 +23,10 @@
         <td style='height: 30px; border:dotted;'  align = center>
             <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
             <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-            <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
             <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
             <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
             <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
             <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-            <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
         </td>
     </tr> 
     <tr >
@@ -25,7 +34,6 @@
     </tr> 
     <tr >
         <td style='height: 30px; border:dotted;' align = center>
-            <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
             <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white" alt=".NET" />
             <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
         </td>
